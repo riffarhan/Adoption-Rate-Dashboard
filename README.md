@@ -3,9 +3,9 @@ JAPFA — GEP Adoption Rate Dashboard
 -->
 
 <div align="center" style="padding:22px 0 10px;">
-  <h1 style="margin:0 0 6px;line-height:1.15;">GEP Adoption Rate — JAPFA</h1>
+  <h1 style="margin:0 0 6px;line-height:1.15;">Procurement System Adoption Rate</h1>
   <p style="margin:0;color:#6a737d;">
-    Division‑level adoption tracking for JAPFA’s new procurement platform (GEP)
+    Division‑level adoption tracking for A company new procurement platform
   </p>
 </div>
 
